@@ -14,8 +14,11 @@ void draw(){
   ellipse(200, 300, 150, 150);
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
-  
+    
+  rect(50, 373, 300, 20);
 
+  line(150, 200, 90, 190)
+  line(250, 200, 300, 190)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
